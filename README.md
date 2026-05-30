@@ -83,6 +83,18 @@ Each repo card could show:
 
 ## Database Plan
 
+## What makes this so cool...
+1. Historical snapshots
+GitHub only keeps 14 days.
+2. AI summaries
+“Traffic increased after your LinkedIn post.”
+3. Referrer intelligence
+“Most visitors came from LinkedIn.”
+4. Alerts
+“Your repo clone activity doubled.”
+5. Shareable cards
+Great for LinkedIn/social.
+
 ### users
 
 Stores app users.
